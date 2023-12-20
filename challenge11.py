@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#checking palindrome
 string=input ("Enter the string:")
 reverse=string[::-1]
 if (string == reverse):
