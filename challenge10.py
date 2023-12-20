@@ -10,6 +10,6 @@ for i in range (Start, End+1):
             if i % j == 0:
                 break
         else :
-          print (i, end =" ")
+           print (i, end =" ")
 else:
     print("this is prime number")
